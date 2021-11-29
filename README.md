@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanyFP!
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning JSP with Java.
+- 🌱 I’m currently learning React Native
 
 <!---
 DanyFP/DanyFP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
